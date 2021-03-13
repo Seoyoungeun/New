@@ -3,4 +3,5 @@ new new
 remote > local
 first modify
 second modify
-2nd branch first modifY 
+2nd branch first modifY
+2nd branch second modify 
