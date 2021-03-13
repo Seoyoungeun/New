@@ -1,2 +1,3 @@
 git text
-new new 
+new new
+remote > local
