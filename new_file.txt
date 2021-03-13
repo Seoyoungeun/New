@@ -1,4 +1,5 @@
 git text
 new new
 remote > local
-first modify 
+first modify
+second modify 
