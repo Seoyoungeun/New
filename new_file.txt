@@ -2,4 +2,5 @@ git text
 new new
 remote > local
 first modify
-second modify 
+second modify
+2nd branch first modifY 
